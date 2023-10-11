@@ -1,0 +1,50 @@
+[
+    {
+        "cep": "01001-000",
+        "logradouro": "Praça da Sé",
+        "complemento": "lado ímpar",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "ibge": "3550308",
+        "gia": "1004",
+        "ddd": "11",
+        "siafi": "7107"
+    },
+    {
+        "cep": "35164-840",
+        "logradouro": "Avenida Cláudio Moura",
+        "complemento": "",
+        "bairro": "Novo Cruzeiro",
+        "localidade": "Ipatinga",
+        "uf": "MG",
+        "ibge": "3131307",
+        "gia": "",
+        "ddd": "31",
+        "siafi": "4625"
+    },
+    {
+        "cep": "35162-359",
+        "logradouro": "Avenida Carlos Chagas",
+        "complemento": "",
+        "bairro": "Cidade Nobre",
+        "localidade": "Ipatinga",
+        "uf": "MG",
+        "ibge": "3131307",
+        "gia": "",
+        "ddd": "31",
+        "siafi": "4625"
+    },
+    {
+        "cep": "35162-256",
+        "logradouro": "Avenida Maanaim",
+        "complemento": "",
+        "bairro": "Cidade Nobre",
+        "localidade": "Ipatinga",
+        "uf": "MG",
+        "ibge": "3131307",
+        "gia": "",
+        "ddd": "31",
+        "siafi": "4625"
+    }
+]
